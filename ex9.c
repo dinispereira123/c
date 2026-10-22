@@ -4,8 +4,8 @@ int main(void)
 {
 	setlocale(LC_ALL, "");
 	int n;
-	printf("Quantos n�meros queres p�r na lista\n");
+	printf("Quantos números queres pôr na lista\n");
 	scanf_s("%i", &n);
-
+	printf("qual é o primeiro número da lista")
 	return 0;
 }
